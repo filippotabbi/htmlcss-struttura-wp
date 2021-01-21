@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 80vw;
+  height: 120vh;
+}
+
+.container_head {
+  width: 100% ;
+  height: 15vh ;
+}
+
+.mt-1 {
+  width: 100% ;
+  height: 100%;
+  margin: 1em 20% ;
+}
+
+.col-80 {
+  width: 80% ;
+  height: 100% ;
+}
+
+.bg-pink {
+  width: 100%;
+  height: 100%;
+  background-color: pink ;
+}
+
+.container_section1 {
+  width: 100% ;
+  height: 45vh ;
+}
+
+.bg-yellow {
+  width: 100%;
+  height: 100%;
+  background-color: yellow ;
+}
+
+.bg-darkblue {
+  width: 100%;
+  height: 100%;
+  background-color: darkblue ;
+}
+
+.container_section2 {
+  width: 100% ;
+  height: 55vh ;
+  display: inline-block;
+}
+
+.col-100 {
+  width: 100% ;
+  height: 20% ;
+}
+.bg-aqua {
+  width: 100%;
+  height: 100%;
+  background-color: aqua ;
+}
+
+.col-28l {
+  width: 28% ;
+  height: 70% ;
+  margin-top: 2% ;
+  margin-right: 2% ;
+  margin-bottom: 2% ;
+  float: left;
+}
+
+.col-40 {
+  width: 40% ;
+  height: 70% ;
+  margin-top: 2%;
+  margin-bottom: 2% ;
+  float: left;
+}
+
+.col-28r {
+  width: 28% ;
+  height: 70% ;
+  margin-top: 2%;
+  margin-left: 2%;
+  margin-bottom: 2%;
+  float: left;
+}
+
+
+.container-foot {
+  width: 100% ;
+  height: 7% ;
+}
+
+.mt-0 {
+  width: 100% ;
+  height: 100%;
+  margin-top: 27em;
+  margin-left: 20% ;
+}
+
+
+.col-80 {
+  width: 80% ;
+  height: 100% ;
+}
+
+.bg-violet {
+  width: 100%;
+  height: 100%;
+  background-color: violet ;
+
+}
